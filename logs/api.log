@@ -1,0 +1,1027 @@
+09-09-2020 19:35:22.265 [Gauge] [INFO] Watching directory: C:\Users\ozyurek\Desktop\TestiniumProje\specs
+09-09-2020 19:35:22.266 [Gauge] [DEBUG] Found 0 files
+09-09-2020 19:35:22.266 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+09-09-2020 19:35:22.266 [Gauge] [INFO] Initializing specs cache with 0 specs
+09-09-2020 19:35:22.266 [Gauge] [INFO] Initializing steps cache with 0 steps
+09-09-2020 19:35:22.266 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52489
+09-09-2020 19:35:39.035 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Site girisi" > 
+09-09-2020 19:35:39.035 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > > 
+09-09-2020 19:35:39.072 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"acilan pop kapanir" > 
+09-09-2020 19:35:39.072 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"acilan pop kapanir" parameterizedStepValue:"acilan pop kapanir" > > 
+09-09-2020 19:35:39.083 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"giris pop acilir" > 
+09-09-2020 19:35:39.083 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > > 
+09-09-2020 19:35:39.099 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<email> girilir" > 
+09-09-2020 19:35:39.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<email> girilir" parameters:"email" > > 
+09-09-2020 19:35:39.112 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<password> girilir" > 
+09-09-2020 19:35:39.112 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<password> girilir" parameters:"password" > > 
+09-09-2020 19:35:39.122 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"giris butona tiklanir" > 
+09-09-2020 19:35:39.122 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > > 
+09-09-2020 19:35:46.474 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:35:46.513 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:35:46.515 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:36:36.467 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:36:36.468 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:36:38.747 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:36:38.747 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<> 
+09-09-2020 19:36:38.748 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:36:38.748 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:36:41.682 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:36:41.683 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:36:43.830 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:36:43.831 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > > 
+09-09-2020 19:36:43.831 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:36:43.831 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:36:45.365 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:36:45.366 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:36:46.738 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:36:46.738 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"acilan pop kapanir" parameterizedStepValue:"acilan pop kapanir" > > 
+09-09-2020 19:36:46.738 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:36:46.738 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:36:52.013 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:36:52.014 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:36:54.641 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:36:54.641 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"acilan pop kapanir" parameterizedStepValue:"acilan pop kapanir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > > 
+09-09-2020 19:36:54.644 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:36:54.644 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:37:17.574 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:37:17.575 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:37:22.050 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:37:22.050 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"acilan pop kapanir" parameterizedStepValue:"acilan pop kapanir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<> > 
+09-09-2020 19:37:22.050 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:37:22.050 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:37:25.172 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:37:25.173 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:37:26.672 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:37:26.672 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"acilan pop kapanir" parameterizedStepValue:"acilan pop kapanir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"{} girilir" parameterizedStepValue:"<password> girilir" parameters:"password" > > 
+09-09-2020 19:37:26.672 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:37:26.672 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:37:36.244 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:37:36.246 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:37:59.304 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<ema> girilir" > 
+09-09-2020 19:37:59.304 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<ema> girilir" parameters:"ema" > > 
+09-09-2020 19:38:01.388 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:38:01.389 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:38:02.443 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:38:02.443 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"acilan pop kapanir" parameterizedStepValue:"acilan pop kapanir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"{} girilir" parameterizedStepValue:"<email> girilir" parameters:"email" > > 
+09-09-2020 19:38:02.443 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:38:02.443 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:38:06.170 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<sametoz> girilir" > 
+09-09-2020 19:38:06.170 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<sametoz> girilir" parameters:"sametoz" > > 
+09-09-2020 19:38:07.251 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<samet.> girilir" > 
+09-09-2020 19:38:07.251 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<samet.> girilir" parameters:"samet." > > 
+09-09-2020 19:38:10.551 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"> girilir" > 
+09-09-2020 19:38:10.552 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<\"> girilir" parameters:"\"" > > 
+09-09-2020 19:38:11.091 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"\"> girilir" > 
+09-09-2020 19:38:11.092 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<\"\"> girilir" parameters:"\"\"" > > 
+09-09-2020 19:38:14.378 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet\"> girilir" > 
+09-09-2020 19:38:14.378 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<\"samet\"> girilir" parameters:"\"samet\"" > > 
+09-09-2020 19:38:16.279 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk\"> girilir" > 
+09-09-2020 19:38:16.279 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<\"samet.ozyurk\"> girilir" parameters:"\"samet.ozyurk\"" > > 
+09-09-2020 19:38:18.523 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail\"> girilir" > 
+09-09-2020 19:38:18.523 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<\"samet.ozyurk@gmail\"> girilir" parameters:"\"samet.ozyurk@gmail\"" > > 
+09-09-2020 19:38:19.436 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\"> girilir" > 
+09-09-2020 19:38:19.436 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<\"samet.ozyurk@gmail.com\"> girilir" parameters:"\"samet.ozyurk@gmail.com\"" > > 
+09-09-2020 19:38:22.034 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:38:22.036 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:39:46.925 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:46.925 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:46.929 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:46.929 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:46.933 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:46.933 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:46.936 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:46.936 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:46.936 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:46.936 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:47.001 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:47.001 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:47.002 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:47.002 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:47.026 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:47.026 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:47.027 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:47.027 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:47.053 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:47.053 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:47.053 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:47.053 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:47.079 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:47.079 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:47.079 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:47.079 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:47.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:47.102 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:47.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:47.102 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+09-09-2020 19:39:47.900 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:39:47.900 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > > 
+09-09-2020 19:39:50.784 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"password girilir" > 
+09-09-2020 19:39:50.784 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"password girilir" parameterizedStepValue:"password girilir" > > 
+09-09-2020 19:39:53.025 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"password\" girilir" > 
+09-09-2020 19:39:53.026 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} girilir" parameterizedStepValue:"<password> girilir" parameters:"password" > > 
+09-09-2020 19:39:55.843 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:39:55.844 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:40:07.978 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:40:07.979 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:41:04.523 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:41:04.525 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:41:45.964 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:41:45.965 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:45:29.910 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> girilir" > 
+09-09-2020 19:45:29.910 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <email> girilir" parameters:"email" > > 
+09-09-2020 19:45:33.261 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"passwor <password> girilir" > 
+09-09-2020 19:45:33.261 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"passwor {} girilir" parameterizedStepValue:"passwor <password> girilir" parameters:"password" > > 
+09-09-2020 19:45:33.998 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"password <password> girilir" > 
+09-09-2020 19:45:33.998 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"password {} girilir" parameterizedStepValue:"password <password> girilir" parameters:"password" > > 
+09-09-2020 19:45:45.766 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:45:45.766 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"acilan pop kapanir" parameterizedStepValue:"acilan pop kapanir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"{} girilir" parameterizedStepValue:"<password> girilir" parameters:"password" > > 
+09-09-2020 19:45:45.767 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:45:45.767 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:45:48.462 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"email\" girilir" > 
+09-09-2020 19:45:48.462 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <email> girilir" parameters:"email" > > 
+09-09-2020 19:45:51.274 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"sametozy\" girilir" > 
+09-09-2020 19:45:51.274 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <sametozy> girilir" parameters:"sametozy" > > 
+09-09-2020 19:45:51.782 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"sameto\" girilir" > 
+09-09-2020 19:45:51.782 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <sameto> girilir" parameters:"sameto" > > 
+09-09-2020 19:45:52.448 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.\" girilir" > 
+09-09-2020 19:45:52.448 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.> girilir" parameters:"samet." > > 
+09-09-2020 19:45:53.900 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurek\" girilir" > 
+09-09-2020 19:45:53.901 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurek> girilir" parameters:"samet.ozyurek" > > 
+09-09-2020 19:45:55.195 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk\" girilir" > 
+09-09-2020 19:45:55.195 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk> girilir" parameters:"samet.ozyurk" > > 
+09-09-2020 19:45:57.677 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 19:45:57.677 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > > 
+09-09-2020 19:46:00.301 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:46:00.302 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:46:01.867 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:46:01.867 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"acilan pop kapanir" parameterizedStepValue:"acilan pop kapanir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > > 
+09-09-2020 19:46:01.868 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:46:01.868 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:46:04.092 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"password \"password\" girilir" > 
+09-09-2020 19:46:04.092 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"password {} girilir" parameterizedStepValue:"password <password> girilir" parameters:"password" > > 
+09-09-2020 19:46:06.384 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"password \"1234\" girilir" > 
+09-09-2020 19:46:06.384 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"password {} girilir" parameterizedStepValue:"password <1234> girilir" parameters:"1234" > > 
+09-09-2020 19:46:07.516 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:46:07.518 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:46:20.020 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:46:20.022 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:47:51.140 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"password \"1998616sam\" girilir" > 
+09-09-2020 19:47:51.140 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > > 
+09-09-2020 19:47:53.247 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:47:53.248 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:48:47.535 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:48:47.537 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:48:48.375 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:48:48.375 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > > 
+09-09-2020 19:48:48.375 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:48:48.375 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:48:54.644 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:48:54.646 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:49:56.896 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:49:56.896 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > > 
+09-09-2020 19:49:56.896 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:49:56.896 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:49:59.157 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:49:59.159 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:50:00.179 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:50:00.179 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > > 
+09-09-2020 19:50:00.179 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:50:00.179 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:50:05.906 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:50:05.907 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:50:07.261 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:50:07.261 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > > 
+09-09-2020 19:50:07.261 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:50:07.261 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:50:10.823 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet\" girilir" > 
+09-09-2020 19:50:10.823 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet> girilir" parameters:"samet" > > 
+09-09-2020 19:50:14.446 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk@gmail/c\" girilir" > 
+09-09-2020 19:50:14.446 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail/c> girilir" parameters:"samet.ozyurk@gmail/c" > > 
+09-09-2020 19:50:16.719 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:50:16.720 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:50:17.625 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:50:17.625 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > > 
+09-09-2020 19:50:17.625 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:50:17.625 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:50:23.303 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:50:23.305 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:50:25.043 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 19:50:25.043 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > > 
+09-09-2020 19:50:25.043 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 19:50:25.043 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 19:50:30.010 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 19:50:30.012 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 20:18:29.251 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 20:24:54.366 [Gauge] [INFO] Watching directory: C:\Users\ozyurek\Desktop\TestiniumProje\specs
+09-09-2020 20:24:54.366 [Gauge] [DEBUG] Found 1 files
+09-09-2020 20:24:54.368 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+09-09-2020 20:24:54.368 [Gauge] [INFO] Initializing specs cache with 1 specs
+09-09-2020 20:24:54.368 [Gauge] [DEBUG] Adding specs from C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 20:24:54.368 [Gauge] [INFO] Initializing steps cache with 1 steps
+09-09-2020 20:24:54.368 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55084
+09-09-2020 20:25:12.757 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Site girisi" > 
+09-09-2020 20:25:12.757 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > > 
+09-09-2020 20:25:12.806 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"giris pop acilir" > 
+09-09-2020 20:25:12.806 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > > 
+09-09-2020 20:25:12.807 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"acilan pop kapanir" > 
+09-09-2020 20:25:12.807 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"acilan pop kapanir" parameterizedStepValue:"acilan pop kapanir" > > 
+09-09-2020 20:25:12.807 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 20:25:12.807 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > > 
+09-09-2020 20:25:12.809 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> girilir" > 
+09-09-2020 20:25:12.809 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <email> girilir" parameters:"email" > > 
+09-09-2020 20:25:12.809 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"password \"1998616sam\" girilir" > 
+09-09-2020 20:25:12.809 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > > 
+09-09-2020 20:25:12.810 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"password <password> girilir" > 
+09-09-2020 20:25:12.810 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"password {} girilir" parameterizedStepValue:"password <password> girilir" parameters:"password" > > 
+09-09-2020 20:25:12.810 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"giris butona tiklanir" > 
+09-09-2020 20:25:12.810 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > > 
+09-09-2020 20:39:52.806 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 20:39:52.808 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 20:39:53.936 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:39:53.936 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:39:53.938 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:39:53.938 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:39:53.939 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:39:53.939 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:39:53.941 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:39:53.941 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:39:53.941 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:39:53.941 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:39:54.034 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 20:39:54.035 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > > 
+09-09-2020 20:39:54.036 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 20:39:54.036 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 20:40:00.189 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:00.189 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:00.269 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 20:40:00.270 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 20:40:01.132 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.132 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.133 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.133 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.134 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.134 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.136 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.136 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.136 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.136 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.164 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.164 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.164 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.164 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.192 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.193 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.193 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.216 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.216 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.217 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.217 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.240 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.240 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.240 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 20:40:01.240 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 20:40:01.752 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 20:40:01.752 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<> allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > > 
+09-09-2020 20:40:01.752 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 20:40:01.752 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 20:40:07.691 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 20:40:07.693 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 20:53:39.358 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 20:53:39.360 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 20:54:54.766 [Gauge] [INFO] Watching directory: C:\Users\ozyurek\Desktop\TestiniumProje\specs
+09-09-2020 20:54:54.766 [Gauge] [DEBUG] Found 1 files
+09-09-2020 20:54:54.768 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+09-09-2020 20:54:54.768 [Gauge] [INFO] Initializing specs cache with 1 specs
+09-09-2020 20:54:54.768 [Gauge] [DEBUG] Adding specs from C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 20:54:54.768 [Gauge] [INFO] Initializing steps cache with 1 steps
+09-09-2020 20:54:54.768 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56492
+09-09-2020 20:54:59.400 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Site girisi" > 
+09-09-2020 20:54:59.400 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > > 
+09-09-2020 20:54:59.461 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"giris pop acilir" > 
+09-09-2020 20:54:59.461 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > > 
+09-09-2020 20:54:59.462 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk@gmail.com\" girilir" > 
+09-09-2020 20:54:59.462 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > > 
+09-09-2020 20:54:59.463 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> girilir" > 
+09-09-2020 20:54:59.463 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <email> girilir" parameters:"email" > > 
+09-09-2020 20:54:59.464 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"password \"1998616sam\" girilir" > 
+09-09-2020 20:54:59.464 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > > 
+09-09-2020 20:54:59.465 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"password <password> girilir" > 
+09-09-2020 20:54:59.465 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"password {} girilir" parameterizedStepValue:"password <password> girilir" parameters:"password" > > 
+09-09-2020 20:54:59.466 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"giris butona tiklanir" > 
+09-09-2020 20:54:59.466 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > > 
+09-09-2020 21:16:37.020 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:16:37.020 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:16:37.022 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:16:37.022 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:16:37.023 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:16:37.023 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:16:48.064 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama " > 
+09-09-2020 21:16:48.064 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama" parameterizedStepValue:"arama" > > 
+09-09-2020 21:16:53.128 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi " > 
+09-09-2020 21:16:53.128 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi" parameterizedStepValue:"arama kelimesi" > > 
+09-09-2020 21:16:53.620 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi <>" > 
+09-09-2020 21:16:53.620 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {}" parameterizedStepValue:"arama kelimesi <>" parameters:"" > > 
+09-09-2020 21:16:57.306 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi <arama>" > 
+09-09-2020 21:16:57.306 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {}" parameterizedStepValue:"arama kelimesi <arama>" parameters:"arama" > > 
+09-09-2020 21:16:59.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi <aramakeli>" > 
+09-09-2020 21:16:59.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {}" parameterizedStepValue:"arama kelimesi <aramakeli>" parameters:"aramakeli" > > 
+09-09-2020 21:17:04.729 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi <context> girilir" > 
+09-09-2020 21:17:04.729 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <context> girilir" parameters:"context" > > 
+09-09-2020 21:17:28.761 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:17:28.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:17:28.766 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:17:28.766 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:17:28.766 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:17:28.766 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:17:31.335 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama" > 
+09-09-2020 21:17:31.335 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama" parameterizedStepValue:"arama" > > 
+09-09-2020 21:17:34.076 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama butonuna basilir" > 
+09-09-2020 21:17:34.076 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > > 
+09-09-2020 21:17:37.166 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:17:37.167 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:17:37.292 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:17:37.294 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:17:47.985 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:17:47.987 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:18:51.310 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:18:51.311 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:18:52.358 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.358 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.361 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.361 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.363 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.412 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.412 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.412 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.412 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.439 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.439 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.440 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.466 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.466 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.466 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.466 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.483 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.483 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.483 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 21:18:52.483 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 21:18:52.542 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 21:18:52.542 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > > 
+09-09-2020 21:18:52.544 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 21:18:52.544 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 21:19:00.079 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi \"context\" girilir" > 
+09-09-2020 21:19:00.079 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <context> girilir" parameters:"context" > > 
+09-09-2020 21:19:03.016 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi \"bilgisaa\" girilir" > 
+09-09-2020 21:19:03.016 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisaa> girilir" parameters:"bilgisaa" > > 
+09-09-2020 21:19:03.403 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi \"bilgisa\" girilir" > 
+09-09-2020 21:19:03.403 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisa> girilir" parameters:"bilgisa" > > 
+09-09-2020 21:19:03.943 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi \"bilgisaar\" girilir" > 
+09-09-2020 21:19:03.943 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisaar> girilir" parameters:"bilgisaar" > > 
+09-09-2020 21:19:05.119 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi \"bilgisayar\" girilir" > 
+09-09-2020 21:19:05.119 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > > 
+09-09-2020 21:19:06.158 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:19:06.160 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:19:07.333 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 21:19:07.333 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > > 
+09-09-2020 21:19:07.333 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 21:19:07.333 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 21:19:14.806 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:19:14.808 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:21:01.467 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama butonuna basilir*/" > 
+09-09-2020 21:21:01.467 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama butonuna basilir*/" parameterizedStepValue:"arama butonuna basilir*/" > > 
+09-09-2020 21:21:08.282 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:21:08.284 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:24:25.202 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 21:24:25.204 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:04:52.031 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:04:52.033 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:04:52.923 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:52.923 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:52.925 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:52.925 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:52.926 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:52.926 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:52.928 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:52.928 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:52.928 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:52.928 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:52.967 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:52.967 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:52.968 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:52.968 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:52.990 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:52.990 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:52.990 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:52.990 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:53.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:53.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:53.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:53.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:53.036 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:53.036 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:53.037 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:53.037 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:56.973 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:56.973 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:58.113 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:58.113 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:04:59.767 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:04:59.767 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:00.974 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:00.974 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:00.990 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:00.990 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:00.991 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:00.991 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:00.995 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:00.995 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:03.916 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun sec" > 
+09-09-2020 22:05:03.916 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun sec" parameterizedStepValue:"urun sec" > > 
+09-09-2020 22:05:03.937 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:03.937 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:05.075 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun secilir" > 
+09-09-2020 22:05:05.075 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > > 
+09-09-2020 22:05:05.097 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:05.097 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:06.003 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:05:06.005 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:05:07.292 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.292 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.294 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.294 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.295 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.295 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.296 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.296 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.296 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.296 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.338 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.338 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.338 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.338 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.347 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.347 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.347 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.347 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.369 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.369 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.369 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.369 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.394 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.394 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.395 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:05:07.395 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:05:07.977 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 22:05:07.977 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<> allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > > 
+09-09-2020 22:05:07.977 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 22:05:07.977 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 22:05:10.200 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:05:10.201 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:17:18.054 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:17:18.054 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:17:18.073 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:17:18.073 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:17:18.073 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:17:18.073 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:17:23.596 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"account pop up kapat" > 
+09-09-2020 22:17:23.596 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > > 
+09-09-2020 22:17:29.517 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:17:29.519 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:17:30.713 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 22:17:30.713 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > > 
+09-09-2020 22:17:30.713 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 22:17:30.713 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 22:17:34.517 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:17:34.519 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:19:17.096 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun secili" > 
+09-09-2020 22:19:17.096 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun secili" parameterizedStepValue:"urun secili" > > 
+09-09-2020 22:19:19.826 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 22:19:19.826 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > > 
+09-09-2020 22:19:19.826 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 22:19:19.826 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 22:19:20.424 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 22:19:20.424 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > > 
+09-09-2020 22:19:20.425 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 22:19:20.425 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 22:19:21.351 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:19:21.353 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:19:58.135 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:19:58.135 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:19:58.148 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:19:58.148 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:19:58.149 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:19:58.149 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:19:59.076 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ara" > 
+09-09-2020 22:19:59.076 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ara" parameterizedStepValue:"ara" > > 
+09-09-2020 22:20:16.988 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 22:20:16.988 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > > 
+09-09-2020 22:20:16.989 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 22:20:16.989 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 22:20:46.289 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun se" > 
+09-09-2020 22:20:46.289 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun se" parameterizedStepValue:"urun se" > > 
+09-09-2020 22:20:56.134 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun seicl" > 
+09-09-2020 22:20:56.134 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun seicl" parameterizedStepValue:"urun seicl" > > 
+09-09-2020 22:20:56.562 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:20:56.562 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:20:56.563 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:20:56.564 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:44:49.262 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:44:49.262 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:44:49.281 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:44:49.281 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:44:49.281 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:44:49.281 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:44:52.264 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun sepete t" > 
+09-09-2020 22:44:52.264 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun sepete t" parameterizedStepValue:"urun sepete t" > > 
+09-09-2020 22:44:53.443 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun sepete eklenir" > 
+09-09-2020 22:44:53.443 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > > 
+09-09-2020 22:44:59.252 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:44:59.254 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:45:00.407 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 22:45:00.407 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > > 
+09-09-2020 22:45:00.407 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 22:45:00.407 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 22:45:03.214 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun s" > 
+09-09-2020 22:45:03.214 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun s" parameterizedStepValue:"urun s" > > 
+09-09-2020 22:45:03.447 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 22:45:03.447 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > > 
+09-09-2020 22:45:03.447 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 22:45:03.447 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 22:45:04.557 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:45:04.559 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 22:45:11.521 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.521 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.522 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.522 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.524 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.524 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.526 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.526 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.526 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.526 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.552 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.552 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.552 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.552 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.574 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.574 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.574 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.574 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.596 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.596 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.596 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.596 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.622 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.622 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.622 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 22:45:11.622 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 22:45:11.653 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 22:45:11.653 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > > 
+09-09-2020 22:45:11.653 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 22:45:11.653 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 23:22:00.520 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 23:22:00.520 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 23:22:00.540 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 23:22:00.540 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 23:22:00.541 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 23:22:00.541 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 23:22:04.001 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"sepete gi" > 
+09-09-2020 23:22:04.001 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"sepete gi" parameterizedStepValue:"sepete gi" > > 
+09-09-2020 23:22:05.015 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"sepete gidilir" > 
+09-09-2020 23:22:05.015 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"sepete gidilir" parameterizedStepValue:"sepete gidilir" > > 
+09-09-2020 23:22:45.749 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 23:22:45.749 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 23:22:45.773 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 23:22:45.773 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 23:22:45.774 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 23:22:45.774 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 23:22:47.109 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 23:22:47.109 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 23:22:47.133 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 23:22:47.133 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 23:22:47.133 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 23:22:47.133 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 23:22:49.355 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"uru" > 
+09-09-2020 23:22:49.355 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"uru" parameterizedStepValue:"uru" > > 
+09-09-2020 23:22:50.402 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun" > 
+09-09-2020 23:22:50.402 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun" parameterizedStepValue:"urun" > > 
+09-09-2020 23:22:51.316 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun f" > 
+09-09-2020 23:22:51.317 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun f" parameterizedStepValue:"urun f" > > 
+09-09-2020 23:22:53.968 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun fiyati karsilasyti" > 
+09-09-2020 23:22:53.968 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun fiyati karsilasyti" parameterizedStepValue:"urun fiyati karsilasyti" > > 
+09-09-2020 23:22:55.370 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun fiyati karsilastir" > 
+09-09-2020 23:22:55.370 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun fiyati karsilastir" parameterizedStepValue:"urun fiyati karsilastir" > > 
+09-09-2020 23:23:37.671 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 23:23:37.671 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 23:23:37.701 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 23:23:37.701 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 23:23:37.701 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+09-09-2020 23:23:37.701 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+09-09-2020 23:23:40.210 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun " > 
+09-09-2020 23:23:40.210 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun" parameterizedStepValue:"urun" > > 
+09-09-2020 23:23:43.846 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun adeti guncellenir kar" > 
+09-09-2020 23:23:43.846 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun adeti guncellenir kar" parameterizedStepValue:"urun adeti guncellenir kar" > > 
+09-09-2020 23:23:45.710 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun adeti guncellenir karsilastirilir" > 
+09-09-2020 23:23:45.711 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun adeti guncellenir karsilastirilir" parameterizedStepValue:"urun adeti guncellenir karsilastirilir" > > 
+09-09-2020 23:23:48.619 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun fiyati karsilastir " > 
+09-09-2020 23:23:48.619 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun fiyati karsilastir" parameterizedStepValue:"urun fiyati karsilastir" > > 
+09-09-2020 23:23:49.970 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun fiyati karsilastir urun ade" > 
+09-09-2020 23:23:49.971 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun fiyati karsilastir urun ade" parameterizedStepValue:"urun fiyati karsilastir urun ade" > > 
+09-09-2020 23:23:51.942 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun fiyati karsilastir urun adeti " > 
+09-09-2020 23:23:51.942 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun fiyati karsilastir urun adeti" parameterizedStepValue:"urun fiyati karsilastir urun adeti" > > 
+09-09-2020 23:23:53.516 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun fiyati karsilastir urun adeti guncellenir" > 
+09-09-2020 23:23:53.516 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun fiyati karsilastir urun adeti guncellenir" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir" > > 
+09-09-2020 23:23:56.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun adeti karsilastirilir" > 
+09-09-2020 23:23:56.177 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun adeti karsilastirilir" parameterizedStepValue:"urun adeti karsilastirilir" > > 
+09-09-2020 23:23:58.600 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun adeti karsilastirilir sepet b" > 
+09-09-2020 23:23:58.600 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun adeti karsilastirilir sepet b" parameterizedStepValue:"urun adeti karsilastirilir sepet b" > > 
+09-09-2020 23:24:00.764 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun adeti karsilastirilir sepet bosalt" > 
+09-09-2020 23:24:00.765 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun adeti karsilastirilir sepet bosalt" parameterizedStepValue:"urun adeti karsilastirilir sepet bosalt" > > 
+09-09-2020 23:24:01.968 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun adeti karsilastirilir sepet bosaltilir" > 
+09-09-2020 23:24:01.968 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun adeti karsilastirilir sepet bosaltilir" parameterizedStepValue:"urun adeti karsilastirilir sepet bosaltilir" > > 
+09-09-2020 23:24:09.113 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 23:24:09.115 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 23:24:09.828 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 23:24:09.829 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > > 
+09-09-2020 23:24:09.829 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 23:24:09.829 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 23:24:13.691 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 23:24:13.691 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > > 
+09-09-2020 23:24:13.691 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 23:24:13.691 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 23:24:14.212 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"sp" > 
+09-09-2020 23:24:14.213 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"sp" parameterizedStepValue:"sp" > > 
+09-09-2020 23:24:14.459 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 23:24:14.459 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > > 
+09-09-2020 23:24:14.460 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 23:24:14.460 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 23:24:16.498 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 23:24:16.498 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > > 
+09-09-2020 23:24:16.498 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 23:24:16.498 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 23:24:18.482 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 23:24:18.484 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 23:24:19.504 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 23:24:19.504 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"sepete gidilir" parameterizedStepValue:"sepete gidilir" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > > 
+09-09-2020 23:24:19.505 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 23:24:19.505 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 23:24:22.747 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 23:24:22.747 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"sepete gidilir" parameterizedStepValue:"sepete gidilir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > > 
+09-09-2020 23:24:22.747 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 23:24:22.747 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 23:24:24.327 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 23:24:24.327 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"sepete gidilir" parameterizedStepValue:"sepete gidilir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > > 
+09-09-2020 23:24:24.327 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 23:24:24.327 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 23:24:25.637 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 23:24:25.638 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 23:24:27.287 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+09-09-2020 23:24:27.287 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"urun fiyati karsilastir urun adeti guncellenir" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"sepete gidilir" parameterizedStepValue:"sepete gidilir" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > > 
+09-09-2020 23:24:27.287 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+09-09-2020 23:24:27.287 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+09-09-2020 23:24:31.255 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+09-09-2020 23:24:31.256 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:03:22.413 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve girilir" > 
+10-09-2020 00:03:22.413 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve girilir" parameterizedStepValue:"e mail <email> ve girilir" parameters:"email" > > 
+10-09-2020 00:03:23.543 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve <>girilir" > 
+10-09-2020 00:03:23.543 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {}girilir" parameterizedStepValue:"e mail <email> ve <>girilir" parameters:"email" parameters:"" > > 
+10-09-2020 00:03:25.973 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve <password >girilir" > 
+10-09-2020 00:03:25.973 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {}girilir" parameterizedStepValue:"e mail <email> ve <password >girilir" parameters:"email" parameters:"password " > > 
+10-09-2020 00:03:26.630 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve <password>girilir" > 
+10-09-2020 00:03:26.630 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {}girilir" parameterizedStepValue:"e mail <email> ve <password>girilir" parameters:"email" parameters:"password" > > 
+10-09-2020 00:03:28.258 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve <password> girilir" > 
+10-09-2020 00:03:28.258 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilir" parameterizedStepValue:"e mail <email> ve <password> girilir" parameters:"email" parameters:"password" > > 
+10-09-2020 00:03:30.660 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve <password> girili" > 
+10-09-2020 00:03:30.660 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girili" parameterizedStepValue:"e mail <email> ve <password> girili" parameters:"email" parameters:"password" > > 
+10-09-2020 00:03:32.340 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve <password> girilerek " > 
+10-09-2020 00:03:32.340 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek" parameterizedStepValue:"e mail <email> ve <password> girilerek" parameters:"email" parameters:"password" > > 
+10-09-2020 00:03:33.873 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve <password> girilerek giris yap" > 
+10-09-2020 00:03:33.873 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yap" parameterizedStepValue:"e mail <email> ve <password> girilerek giris yap" parameters:"email" parameters:"password" > > 
+10-09-2020 00:03:34.824 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve <password> girilerek giris yapilir" > 
+10-09-2020 00:03:34.825 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <email> ve <password> girilerek giris yapilir" parameters:"email" parameters:"password" > > 
+10-09-2020 00:05:28.537 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.537 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:28.539 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.539 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:28.539 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.539 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:28.541 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.541 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:28.541 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.541 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:28.566 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.566 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:28.567 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.567 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:28.589 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.589 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:28.590 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.590 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:28.614 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.614 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:28.614 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.614 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:28.636 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.636 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:28.636 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:05:28.636 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:05:29.008 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+10-09-2020 00:05:29.008 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"password {} girilir" parameterizedStepValue:"password <1998616sam> girilir" parameters:"1998616sam" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"e mail {} girilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> girilir" parameters:"samet.ozyurk@gmail.com" > allSteps:<stepValue:"giris butona tiklanir" parameterizedStepValue:"giris butona tiklanir" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"sepete gidilir" parameterizedStepValue:"sepete gidilir" > allSteps:<stepValue:"urun fiyati karsilastir urun adeti guncellenir" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir" > allSteps:<stepValue:"urun adeti karsilastirilir sepet bosaltilir" parameterizedStepValue:"urun adeti karsilastirilir sepet bosaltilir" > > 
+10-09-2020 00:05:29.009 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+10-09-2020 00:05:29.009 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+10-09-2020 00:05:33.645 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"email\" ve \"password\" girilerek giris yapilir" > 
+10-09-2020 00:05:33.645 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <email> ve <password> girilerek giris yapilir" parameters:"email" parameters:"password" > > 
+10-09-2020 00:05:35.516 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"sametozy\" ve \"password\" girilerek giris yapilir" > 
+10-09-2020 00:05:35.516 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <sametozy> ve <password> girilerek giris yapilir" parameters:"sametozy" parameters:"password" > > 
+10-09-2020 00:05:36.366 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.\" ve \"password\" girilerek giris yapilir" > 
+10-09-2020 00:05:36.366 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.> ve <password> girilerek giris yapilir" parameters:"samet." parameters:"password" > > 
+10-09-2020 00:05:38.238 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk\" ve \"password\" girilerek giris yapilir" > 
+10-09-2020 00:05:38.238 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk> ve <password> girilerek giris yapilir" parameters:"samet.ozyurk" parameters:"password" > > 
+10-09-2020 00:05:38.625 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk@\" ve \"password\" girilerek giris yapilir" > 
+10-09-2020 00:05:38.625 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@> ve <password> girilerek giris yapilir" parameters:"samet.ozyurk@" parameters:"password" > > 
+10-09-2020 00:05:40.619 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk@gmail.com\" ve \"password\" girilerek giris yapilir" > 
+10-09-2020 00:05:40.619 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <password> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"password" > > 
+10-09-2020 00:05:43.649 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk@gmail.com\" ve \"1998616sam\" girilerek giris yapilir" > 
+10-09-2020 00:05:43.650 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <1998616sam> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"1998616sam" > > 
+10-09-2020 00:06:23.380 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:06:23.382 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:36:12.599 [Gauge] [INFO] Watching directory: C:\Users\ozyurek\Desktop\TestiniumProje\specs
+10-09-2020 00:36:12.600 [Gauge] [DEBUG] Found 1 files
+10-09-2020 00:36:12.601 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+10-09-2020 00:36:12.602 [Gauge] [INFO] Initializing specs cache with 1 specs
+10-09-2020 00:36:12.602 [Gauge] [DEBUG] Adding specs from C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:36:12.602 [Gauge] [INFO] Initializing steps cache with 1 steps
+10-09-2020 00:36:12.602 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53742
+10-09-2020 00:36:28.322 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Site girisi" > 
+10-09-2020 00:36:28.322 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > > 
+10-09-2020 00:36:28.336 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"giris pop acilir" > 
+10-09-2020 00:36:28.336 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > > 
+10-09-2020 00:36:28.337 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk@gmail.com\" ve \"1998616sam\" girilerek giris yapilir" > 
+10-09-2020 00:36:28.337 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <1998616sam> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"1998616sam" > > 
+10-09-2020 00:36:28.338 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve <password> girilerek giris yapilir" > 
+10-09-2020 00:36:28.338 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <email> ve <password> girilerek giris yapilir" parameters:"email" parameters:"password" > > 
+10-09-2020 00:36:28.338 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"account pop up kapat" > 
+10-09-2020 00:36:28.338 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > > 
+10-09-2020 00:36:28.339 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi \"bilgisayar\" girilir" > 
+10-09-2020 00:36:28.339 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > > 
+10-09-2020 00:36:28.340 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi <context> girilir" > 
+10-09-2020 00:36:28.340 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <context> girilir" parameters:"context" > > 
+10-09-2020 00:36:28.340 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama butonuna basilir" > 
+10-09-2020 00:36:28.340 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > > 
+10-09-2020 00:36:28.341 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun secilir" > 
+10-09-2020 00:36:28.341 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > > 
+10-09-2020 00:36:28.341 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun sepete eklenir" > 
+10-09-2020 00:36:28.341 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > > 
+10-09-2020 00:36:28.342 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"sepete gidilir" > 
+10-09-2020 00:36:28.342 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"sepete gidilir" parameterizedStepValue:"sepete gidilir" > > 
+10-09-2020 00:36:28.343 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun fiyati karsilastir urun adeti guncellenir" > 
+10-09-2020 00:36:28.343 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun fiyati karsilastir urun adeti guncellenir" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir" > > 
+10-09-2020 00:36:28.343 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun adeti karsilastirilir sepet bosaltilir" > 
+10-09-2020 00:36:28.343 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun adeti karsilastirilir sepet bosaltilir" parameterizedStepValue:"urun adeti karsilastirilir sepet bosaltilir" > > 
+10-09-2020 00:44:00.858 [Gauge] [INFO] Watching directory: C:\Users\ozyurek\Desktop\TestiniumProje\specs
+10-09-2020 00:44:00.858 [Gauge] [DEBUG] Found 1 files
+10-09-2020 00:44:00.860 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+10-09-2020 00:44:00.860 [Gauge] [INFO] Initializing specs cache with 1 specs
+10-09-2020 00:44:00.860 [Gauge] [DEBUG] Adding specs from C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:44:00.860 [Gauge] [INFO] Initializing steps cache with 1 steps
+10-09-2020 00:44:00.860 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53848
+10-09-2020 00:44:12.702 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Site girisi" > 
+10-09-2020 00:44:12.702 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > > 
+10-09-2020 00:44:12.754 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"giris pop acilir" > 
+10-09-2020 00:44:12.754 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > > 
+10-09-2020 00:44:12.756 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk@gmail.com\" ve \"1998616sam\" girilerek giris yapilir" > 
+10-09-2020 00:44:12.756 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <1998616sam> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"1998616sam" > > 
+10-09-2020 00:44:12.757 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve <password> girilerek giris yapilir" > 
+10-09-2020 00:44:12.757 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <email> ve <password> girilerek giris yapilir" parameters:"email" parameters:"password" > > 
+10-09-2020 00:44:12.758 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"account pop up kapat" > 
+10-09-2020 00:44:12.758 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > > 
+10-09-2020 00:44:12.760 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi \"bilgisayar\" girilir" > 
+10-09-2020 00:44:12.760 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > > 
+10-09-2020 00:44:12.761 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi <context> girilir" > 
+10-09-2020 00:44:12.761 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <context> girilir" parameters:"context" > > 
+10-09-2020 00:44:12.761 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama butonuna basilir" > 
+10-09-2020 00:44:12.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > > 
+10-09-2020 00:44:12.763 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun secilir" > 
+10-09-2020 00:44:12.763 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > > 
+10-09-2020 00:44:12.764 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun sepete eklenir" > 
+10-09-2020 00:44:12.764 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > > 
+10-09-2020 00:44:12.765 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"sepete gidilir" > 
+10-09-2020 00:44:12.765 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"sepete gidilir" parameterizedStepValue:"sepete gidilir" > > 
+10-09-2020 00:44:12.766 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun fiyati karsilastir urun adeti guncellenir" > 
+10-09-2020 00:44:12.766 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun fiyati karsilastir urun adeti guncellenir" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir" > > 
+10-09-2020 00:44:12.767 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun adeti karsilastirilir sepet bosaltilir" > 
+10-09-2020 00:44:12.767 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun adeti karsilastirilir sepet bosaltilir" parameterizedStepValue:"urun adeti karsilastirilir sepet bosaltilir" > > 
+10-09-2020 00:47:28.617 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:47:28.619 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:47:29.251 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.251 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.259 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.259 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.260 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.260 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.265 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.265 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.265 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.265 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.320 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.320 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.321 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.321 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.351 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.351 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.352 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.352 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.372 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.372 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.372 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.372 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.396 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.396 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.396 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:47:29.396 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:47:29.555 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+10-09-2020 00:47:29.555 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <1998616sam> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"1998616sam" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"urun adeti karsilastirilir sepet bosaltilir" parameterizedStepValue:"urun adeti karsilastirilir sepet bosaltilir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"sepete gidilir" parameterizedStepValue:"sepete gidilir" > allSteps:<stepValue:"urun fiyati karsilastir urun adeti guncellenir" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir" > > 
+10-09-2020 00:47:29.556 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+10-09-2020 00:47:29.556 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+10-09-2020 00:47:39.732 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:47:39.733 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:49:15.916 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:49:15.918 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:49:35.019 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:49:35.020 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:49:37.606 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+10-09-2020 00:49:37.606 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <1998616sam> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"1998616sam" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > > 
+10-09-2020 00:49:37.606 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+10-09-2020 00:49:37.606 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+10-09-2020 00:49:39.859 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:49:39.860 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:49:41.744 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+10-09-2020 00:49:41.744 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <1998616sam> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"1998616sam" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > > 
+10-09-2020 00:49:41.744 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+10-09-2020 00:49:41.744 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+10-09-2020 00:49:47.783 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun fiyati karsilastir urun adeti guncellenir*" > 
+10-09-2020 00:49:47.784 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun fiyati karsilastir urun adeti guncellenir*" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir*" > > 
+10-09-2020 00:49:48.566 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:49:48.568 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:49:50.480 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+10-09-2020 00:49:50.480 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <1998616sam> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"1998616sam" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"urun fiyati karsilastir urun adeti guncellenir" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir" > > 
+10-09-2020 00:49:50.480 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+10-09-2020 00:49:50.480 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+10-09-2020 00:49:53.574 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:49:53.576 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:49:54.910 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+10-09-2020 00:49:54.910 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"urun fiyati karsilastir urun adeti guncellenir" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir" > allSteps:<stepValue:"urun adeti karsilastirilir sepet bosaltilir" parameterizedStepValue:"urun adeti karsilastirilir sepet bosaltilir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <1998616sam> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"1998616sam" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > > 
+10-09-2020 00:49:54.910 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+10-09-2020 00:49:54.910 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+10-09-2020 00:50:05.026 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:50:05.027 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:50:06.815 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.815 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:06.818 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.818 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:06.820 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.820 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:06.822 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.823 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:06.823 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.823 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:06.851 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.851 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:06.852 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.852 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:06.875 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.875 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:06.875 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.875 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:06.903 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.903 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:06.903 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.903 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:06.927 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.927 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:06.927 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:06.927 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:07.316 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+10-09-2020 00:50:07.316 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"urun adeti karsilastirilir sepet bosaltilir" parameterizedStepValue:"urun adeti karsilastirilir sepet bosaltilir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <1998616sam> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"1998616sam" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"urun fiyati karsilastir urun adeti guncellenir" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir" > > 
+10-09-2020 00:50:07.316 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+10-09-2020 00:50:07.316 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+10-09-2020 00:50:18.618 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:50:18.619 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:50:26.506 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:50:26.507 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:50:27.275 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:27.275 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:27.279 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:27.279 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:27.279 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:27.279 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:27.282 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-09-2020 00:50:27.282 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-09-2020 00:50:27.319 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+10-09-2020 00:50:27.319 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <1998616sam> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"1998616sam" > allSteps:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > allSteps:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > allSteps:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > allSteps:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > allSteps:<stepValue:"urun fiyati karsilastir urun adeti guncellenir" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir" > allSteps:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > allSteps:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > allSteps:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > allSteps:<stepValue:"urun adeti karsilastirilir sepet bosaltilir" parameterizedStepValue:"urun adeti karsilastirilir sepet bosaltilir" > > 
+10-09-2020 00:50:27.319 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+10-09-2020 00:50:27.319 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+10-09-2020 00:50:29.347 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 00:50:29.348 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 04:20:31.708 [Gauge] [INFO] Watching directory: C:\Users\ozyurek\Desktop\TestiniumProje\specs
+10-09-2020 04:20:31.708 [Gauge] [DEBUG] Found 1 files
+10-09-2020 04:20:31.711 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+10-09-2020 04:20:31.711 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 04:20:31.712 [Gauge] [INFO] Initializing specs cache with 1 specs
+10-09-2020 04:20:31.712 [Gauge] [DEBUG] Adding specs from C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 04:20:31.712 [Gauge] [INFO] Initializing steps cache with 1 steps
+10-09-2020 04:20:31.712 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51234
+10-09-2020 04:20:39.950 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun sepete eklenir" > 
+10-09-2020 04:20:39.950 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > > 
+10-09-2020 04:20:39.979 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"sepete gidilir" > 
+10-09-2020 04:20:39.979 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"sepete gidilir" parameterizedStepValue:"sepete gidilir" > > 
+10-09-2020 04:20:39.993 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun fiyati karsilastir urun adeti guncellenir" > 
+10-09-2020 04:20:39.993 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun fiyati karsilastir urun adeti guncellenir" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir" > > 
+10-09-2020 04:20:40.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun adeti karsilastirilir sepet bosaltilir" > 
+10-09-2020 04:20:40.014 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun adeti karsilastirilir sepet bosaltilir" parameterizedStepValue:"urun adeti karsilastirilir sepet bosaltilir" > > 
+10-09-2020 04:20:40.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Site girisi" > 
+10-09-2020 04:20:40.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > > 
+10-09-2020 04:20:40.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk@gmail.com\" ve \"1998616sam\" girilerek giris yapilir" > 
+10-09-2020 04:20:40.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <1998616sam> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"1998616sam" > > 
+10-09-2020 04:20:40.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun secilir" > 
+10-09-2020 04:20:40.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > > 
+10-09-2020 04:20:40.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi \"bilgisayar\" girilir" > 
+10-09-2020 04:20:40.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > > 
+10-09-2020 04:20:40.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama butonuna basilir" > 
+10-09-2020 04:20:40.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > > 
+10-09-2020 04:20:40.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"account pop up kapat" > 
+10-09-2020 04:20:40.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > > 
+10-09-2020 04:20:40.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"giris pop acilir" > 
+10-09-2020 04:20:40.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > > 
+10-09-2020 04:21:19.586 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve <password> girilerek giris yapilir" > 
+10-09-2020 04:21:19.586 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <email> ve <password> girilerek giris yapilir" parameters:"email" parameters:"password" > > 
+10-09-2020 04:21:19.603 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi <context> girilir" > 
+10-09-2020 04:21:19.603 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <context> girilir" parameters:"context" > > 
+10-09-2020 04:21:43.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"email\" ve \"1998616sam\" girilerek giris yapilir" > 
+10-09-2020 04:21:43.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <email> ve <1998616sam> girilerek giris yapilir" parameters:"email" parameters:"1998616sam" > > 
+10-09-2020 04:21:46.770 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"email\" ve \"password\" girilerek giris yapilir" > 
+10-09-2020 04:21:46.770 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <email> ve <password> girilerek giris yapilir" parameters:"email" parameters:"password" > > 
+10-09-2020 04:21:47.674 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 04:21:47.676 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 05:06:56.922 [Gauge] [INFO] Watching directory: C:\Users\ozyurek\Desktop\TestiniumProje\specs
+10-09-2020 05:06:56.923 [Gauge] [DEBUG] Found 1 files
+10-09-2020 05:06:56.924 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+10-09-2020 05:06:56.925 [Gauge] [INFO] Initializing specs cache with 1 specs
+10-09-2020 05:06:56.925 [Gauge] [DEBUG] Adding specs from C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 05:06:56.925 [Gauge] [INFO] Initializing steps cache with 1 steps
+10-09-2020 05:06:56.925 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52065
+10-09-2020 05:25:33.364 [Gauge] [INFO] Watching directory: C:\Users\ozyurek\Desktop\TestiniumProje\specs
+10-09-2020 05:25:33.365 [Gauge] [DEBUG] Found 1 files
+10-09-2020 05:25:33.366 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+10-09-2020 05:25:33.367 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 05:25:33.367 [Gauge] [INFO] Initializing specs cache with 1 specs
+10-09-2020 05:25:33.367 [Gauge] [DEBUG] Adding specs from C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 05:25:33.367 [Gauge] [INFO] Initializing steps cache with 1 steps
+10-09-2020 05:25:33.367 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52349
+10-09-2020 05:26:09.034 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Site girisi" > 
+10-09-2020 05:26:09.034 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Site girisi" parameterizedStepValue:"Site girisi" > > 
+10-09-2020 05:26:09.048 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"giris pop acilir" > 
+10-09-2020 05:26:09.048 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"giris pop acilir" parameterizedStepValue:"giris pop acilir" > > 
+10-09-2020 05:26:09.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"email\" ve \"password\" girilerek giris yapilir" > 
+10-09-2020 05:26:09.049 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <email> ve <password> girilerek giris yapilir" parameters:"email" parameters:"password" > > 
+10-09-2020 05:26:09.050 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail <email> ve <password> girilerek giris yapilir" > 
+10-09-2020 05:26:09.050 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <email> ve <password> girilerek giris yapilir" parameters:"email" parameters:"password" > > 
+10-09-2020 05:26:09.050 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"account pop up kapat" > 
+10-09-2020 05:26:09.050 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"account pop up kapat" parameterizedStepValue:"account pop up kapat" > > 
+10-09-2020 05:26:09.050 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi \"bilgisayar\" girilir" > 
+10-09-2020 05:26:09.051 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <bilgisayar> girilir" parameters:"bilgisayar" > > 
+10-09-2020 05:26:09.051 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama kelimesi <context> girilir" > 
+10-09-2020 05:26:09.051 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama kelimesi {} girilir" parameterizedStepValue:"arama kelimesi <context> girilir" parameters:"context" > > 
+10-09-2020 05:26:09.051 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"arama butonuna basilir" > 
+10-09-2020 05:26:09.051 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"arama butonuna basilir" parameterizedStepValue:"arama butonuna basilir" > > 
+10-09-2020 05:26:09.052 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun secilir" > 
+10-09-2020 05:26:09.052 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun secilir" parameterizedStepValue:"urun secilir" > > 
+10-09-2020 05:26:09.052 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun sepete eklenir" > 
+10-09-2020 05:26:09.052 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun sepete eklenir" parameterizedStepValue:"urun sepete eklenir" > > 
+10-09-2020 05:26:09.053 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"sepete gidilir" > 
+10-09-2020 05:26:09.053 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"sepete gidilir" parameterizedStepValue:"sepete gidilir" > > 
+10-09-2020 05:26:09.054 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun fiyati karsilastir urun adeti guncellenir" > 
+10-09-2020 05:26:09.054 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun fiyati karsilastir urun adeti guncellenir" parameterizedStepValue:"urun fiyati karsilastir urun adeti guncellenir" > > 
+10-09-2020 05:26:09.054 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"urun adeti karsilastirilir sepet bosaltilir" > 
+10-09-2020 05:26:09.054 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"urun adeti karsilastirilir sepet bosaltilir" parameterizedStepValue:"urun adeti karsilastirilir sepet bosaltilir" > > 
+10-09-2020 05:26:12.022 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"sametoz\" ve \"password\" girilerek giris yapilir" > 
+10-09-2020 05:26:12.022 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <sametoz> ve <password> girilerek giris yapilir" parameters:"sametoz" parameters:"password" > > 
+10-09-2020 05:26:12.595 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet\" ve \"password\" girilerek giris yapilir" > 
+10-09-2020 05:26:12.595 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet> ve <password> girilerek giris yapilir" parameters:"samet" parameters:"password" > > 
+10-09-2020 05:26:15.778 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk@gmail.com\" ve \"password\" girilerek giris yapilir" > 
+10-09-2020 05:26:15.778 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <password> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"password" > > 
+10-09-2020 05:26:19.682 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"samet.ozyurk@gmail.com\" ve \"1998616sam\" girilerek giris yapilir" > 
+10-09-2020 05:26:19.682 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <samet.ozyurk@gmail.com> ve <1998616sam> girilerek giris yapilir" parameters:"samet.ozyurk@gmail.com" parameters:"1998616sam" > > 
+10-09-2020 05:26:20.463 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 05:26:20.464 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 05:26:59.391 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"e mail \"email\" ve \"1998616sam\" girilerek giris yapilir" > 
+10-09-2020 05:26:59.391 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"e mail {} ve {} girilerek giris yapilir" parameterizedStepValue:"e mail <email> ve <1998616sam> girilerek giris yapilir" parameters:"email" parameters:"1998616sam" > > 
+10-09-2020 05:27:03.733 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec
+10-09-2020 05:27:03.735 [Gauge] [INFO] Spec file added / modified: C:\Users\ozyurek\Desktop\TestiniumProje\specs\login.spec

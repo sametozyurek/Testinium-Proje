@@ -1,0 +1,47 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 437milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 437"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 58748"}
+{"logLevel":"info","message":"Listening on port:58748"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.sametozyurek.test.TestLoginPage.clickSearchButton' and 'com.sametozyurek.test.TestLoginPage.clickSearchButton'"}
+{"logLevel":"debug","message":"Found arama butonuna basilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.sametozyurek.test.TestLoginPage.before' and 'com.sametozyurek.test.TestLoginPage.before'"}
+{"logLevel":"debug","message":"Found Site girisi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.sametozyurek.test.TestLoginPage.enterEmail' and 'com.sametozyurek.test.TestLoginPage.enterEmail'"}
+{"logLevel":"debug","message":"Found e mail {} girilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.sametozyurek.test.TestLoginPage.clickLogin' and 'com.sametozyurek.test.TestLoginPage.clickLogin'"}
+{"logLevel":"debug","message":"Found giris pop acilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.sametozyurek.test.TestLoginPage.enterSearchText' and 'com.sametozyurek.test.TestLoginPage.enterSearchText'"}
+{"logLevel":"debug","message":"Found arama kelimesi {} girilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.sametozyurek.test.TestLoginPage.login' and 'com.sametozyurek.test.TestLoginPage.login'"}
+{"logLevel":"debug","message":"Found giris butona tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.sametozyurek.test.TestLoginPage.enterPassword' and 'com.sametozyurek.test.TestLoginPage.enterPassword'"}
+{"logLevel":"debug","message":"Found password {} girilir in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tpassword {} girilir : public void enterPassword(String password)"}
+{"logLevel":"debug","message":"\tgiris pop acilir : public void clickLogin()"}
+{"logLevel":"debug","message":"\tgiris butona tiklanir : public void login() throws InterruptedException"}
+{"logLevel":"debug","message":"\tarama kelimesi {} girilir : public void enterSearchText(String context)"}
+{"logLevel":"debug","message":"\tarama butonuna basilir : public void clickSearchButton()"}
+{"logLevel":"debug","message":"\te mail {} girilir : public void enterEmail(String email)"}
+{"logLevel":"debug","message":"\tSite girisi : public void before() throws InterruptedException"}
+Starting ChromeDriver 85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658}) on port 24270
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 09, 2020 9:25:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Site girisi' using 'class com.sametozyurek.test.TestLoginPage.before"}
+{"logLevel":"debug","message":"Executing 'giris pop acilir' using 'class com.sametozyurek.test.TestLoginPage.clickLogin"}
+{"logLevel":"debug","message":"Executing 'e mail {} girilir' using 'class com.sametozyurek.test.TestLoginPage.enterEmail"}
+{"logLevel":"debug","message":"Executing 'password {} girilir' using 'class com.sametozyurek.test.TestLoginPage.enterPassword"}
+{"logLevel":"debug","message":"Executing 'giris butona tiklanir' using 'class com.sametozyurek.test.TestLoginPage.login"}
+{"logLevel":"debug","message":"Executing 'arama kelimesi {} girilir' using 'class com.sametozyurek.test.TestLoginPage.enterSearchText"}
+{"logLevel":"debug","message":"Executing 'arama butonuna basilir' using 'class com.sametozyurek.test.TestLoginPage.clickSearchButton"}
